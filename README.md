@@ -1,4 +1,4 @@
-# Solución examen simuladro de plpgsql
+# Solución examen simulacro de plpgsql
 
 ## 1. Función
 
