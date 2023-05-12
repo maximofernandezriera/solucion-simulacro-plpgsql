@@ -34,7 +34,7 @@
       
 ## 3. Función
 
-NOTA: La variable TG_OP es una variable de sistema en PL/pgSQL que se proporciona automáticamente en el contexto de un disparador (trigger). No necesita ser declarada por el programador.
+NOTA: La variable TG_OP es una variable de sistema en PL/pgSQL que se proporciona automáticamente en el contexto de un disparador (trigger).
 
 La variable TG_OP se utiliza para determinar qué operación causó la activación del disparador. Puede tener uno de los siguientes valores:
 
